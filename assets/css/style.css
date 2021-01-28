@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color:rgb(240, 240, 240);
+}
+
+.navbar a {
+    font-family: 'Trocchi', serif;
+}
+
+.nav-link {
+    margin-right: 30px;
+}
+
+.container {
+    float: left;
+}
+
+.jumbotron {
+    background-color: white;
+    margin: 30px;
+    font-family: 'Trocchi', serif;
+}
+
+
+
